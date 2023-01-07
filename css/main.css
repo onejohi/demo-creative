@@ -16,6 +16,10 @@ body {
   background-color: #EF6D58 !important;
 }
 
+.orange {
+  color: #EF6D58;
+}
+
 .h-720 {
   height: 720px !important;
 }
@@ -24,22 +28,46 @@ body {
   height: 416px !important;
 }
 
+.dark-orange {
+  color: #391400;
+}
+
 #card1 {
   background-image: url('../assets/img1.png');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #card2 {
   background-image: url('../assets/img2.png');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #card3 {
   background-image: url('../assets/img3.png');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #card4 {
   background-image: url('../assets/img4.png');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #card5 {
   background-image: url('../assets/img5.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* contact button styles **/
+
+.px-4, .py-1, .pt-1 {
+  font-size: 14px;
+}
+
+.border-top {
+  border-top: 1px solid #F3D1BF !important;
 }
