@@ -7,3 +7,39 @@ body {
 .dark-bg {
   background-color: #28293E !important;
 }
+
+.light-orange-bg {
+  background-color: #FDF0E9 !important;
+}
+
+.orange-bg {
+  background-color: #EF6D58 !important;
+}
+
+.h-720 {
+  height: 720px !important;
+}
+
+.h-400 {
+  height: 416px !important;
+}
+
+#card1 {
+  background-image: url('../assets/img1.png');
+}
+
+#card2 {
+  background-image: url('../assets/img2.png');
+}
+
+#card3 {
+  background-image: url('../assets/img3.png');
+}
+
+#card4 {
+  background-image: url('../assets/img4.png');
+}
+
+#card5 {
+  background-image: url('../assets/img5.png');
+}
